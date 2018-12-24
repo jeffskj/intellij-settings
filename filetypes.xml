@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="sig" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="jelly" type="PLAIN_TEXT" />
+      <mapping ext="sig" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
