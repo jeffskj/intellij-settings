@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.rei.crampon.jsf.msg.Messages.error(textFormat,params)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
