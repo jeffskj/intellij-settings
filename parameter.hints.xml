@@ -1,9 +1,19 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="TypeScript" />
       <blacklist language="Java">
         <added pattern="com.rei.crampon.jsf.msg.Messages.error(textFormat,params)" />
       </blacklist>
+      <blacklist language="Angular HTML Template" />
+      <blacklist language="JavaScript" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+      <blacklist language="SQL" />
     </blacklists>
+    <option id="java.multiple.params.same.type" value="true" />
+    <option id="java.build.like.method" value="true" />
+    <option id="java.simple.sequentially.numbered" value="true" />
+    <option id="java.method.name.contains.parameter.name" value="true" />
   </component>
 </application>
