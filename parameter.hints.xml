@@ -15,5 +15,14 @@
     <option id="java.build.like.method" value="true" />
     <option id="java.simple.sequentially.numbered" value="true" />
     <option id="java.method.name.contains.parameter.name" value="true" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
