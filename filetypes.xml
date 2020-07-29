@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="jelly" type="PLAIN_TEXT" />
-      <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="sig" type="PLAIN_TEXT" />
-      <mapping ext="lst" type="PLAIN_TEXT" />
-      <mapping ext="processor" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
+      <mapping ext="sig" type="PLAIN_TEXT" />
+      <mapping ext="jelly" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
