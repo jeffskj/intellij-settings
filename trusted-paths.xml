@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="C:/code/oss" />
+        <option value="C:/code/tmp" />
       </list>
     </option>
   </component>
