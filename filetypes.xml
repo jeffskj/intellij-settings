@@ -12,6 +12,7 @@
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="jelly" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jelly" approved="true" type="XML" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
