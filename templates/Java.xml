@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="cnn" value="com.google.common.base.Preconditions.checkNotNull($SELECTION$)" description="Checks Not Null" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

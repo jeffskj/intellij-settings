@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:/code/oss" />
+        <option value="C:/code/tmp" />
+        <option value="C:/code/alpine" />
+        <option value="C:/code/backstage" />
+      </list>
+    </option>
+  </component>
+</application>

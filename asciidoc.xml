@@ -1,0 +1,10 @@
+<application>
+  <component name="AsciidocApplicationSettings">
+    <option name="pluginVersion" value="0.35.4" />
+    <AsciiDocPreviewSettings>
+      <HtmlPanelProviderInfo>
+        <ProviderInfo name="JavaFX WebView" className="org.asciidoc.intellij.editor.javafx.JavaFxHtmlPanelProvider" />
+      </HtmlPanelProviderInfo>
+    </AsciiDocPreviewSettings>
+  </component>
+</application>
