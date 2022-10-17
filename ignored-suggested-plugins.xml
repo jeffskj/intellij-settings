@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.haulmont.jpab" />
+        <option value="com.intellij.selenium" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.bigdatatools" />
+      </list>
+    </option>
+  </component>
+</application>
